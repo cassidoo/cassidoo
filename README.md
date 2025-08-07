@@ -6,8 +6,9 @@ I have a [weekly newsletter](https://cassidoo.co/newsletter/) that you should ch
 
 I love jokes and musicals. Also candy. If you would like to discuss these things, you can join my [Patreon](https://www.patreon.com/cassidoo) (which has an awesome Discord group) or follow me on [Bluesky](https://bsky.app/profile/cassidoo.co) or [Twitter](https://twitter.com/cassidoo), or jump over to my [livestream](https://twitch.tv/cassidoo) (which is currently paused from its normal weekly cadence, but we'll be back soon). I typically write [on my personal blog](https://cassidoo.co/blog) if I'm in a bloggy mood. You can also [ask me anything](https://github.com/cassidoo/ama) (within reason).
 
-Here's some open source things I made that you might like:
+Here's some things I made that you might like:
 
+- [Ductts](https://ductts.app/)
 - [PocketCal](https://pocketcal.com/)
 - [todometer](https://cassidoo.github.io/todometer/)
 - [Jumblie](https://jumblie.com/)
