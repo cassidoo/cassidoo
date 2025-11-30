@@ -13,6 +13,7 @@ Here's some things I made that you might like:
 - [todometer](https://cassidoo.github.io/todometer/)
 - [Jumblie](https://jumblie.com/)
 - [W-9 Crafter](https://cassidoo.co/w9-crafter/)
+- [Code Wave](https://cassidoo.itch.io/code-wave)
 - [Thirteen Potions](https://cassidoo.itch.io/thirteen-potions)
 - [Flapjack Fwop](https://cassidoo.github.io/flapjack-fwop/)
 - [Cardstock Obsidian Theme](https://github.com/cassidoo/cardstock)
