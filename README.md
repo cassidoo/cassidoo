@@ -10,6 +10,7 @@ Here's some things I made that you might like:
 
 - [Ductts](https://ductts.app/)
 - [PocketCal](https://pocketcal.com/)
+- [FancyGist](https://fancygist.com/)
 - [todometer](https://cassidoo.github.io/todometer/)
 - [Jumblie](https://jumblie.com/)
 - [W-9 Crafter](https://cassidoo.co/w9-crafter/)
